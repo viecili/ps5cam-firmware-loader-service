@@ -1,0 +1,10 @@
+[Unit]
+Description=PS5 Camera Firmware Loader
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/opt/ps5cam/ps5cam-load-firmware.sh
+
+[Install]
+WantedBy=multi-user.target
