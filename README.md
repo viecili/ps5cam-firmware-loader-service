@@ -4,9 +4,9 @@ CPP binary and firmware generated from [PS5-Camera-Firmware-Loader](https://gith
 
 # Instructions
 
-Install `v4l2-ctl` (dependency):
+Install `v4l2-ctl` and `inotify-tools` (dependency):
 ```bash
-sudo dnf install v4l-utils
+sudo dnf install v4l-utils inotify-tools
 ```
 
 Copy folder `ps5cam/` to `/opt`:
