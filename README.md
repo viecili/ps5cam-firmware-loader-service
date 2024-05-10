@@ -1,6 +1,6 @@
 # Binaries and Systemd Service to load PS5 Camera firmware 
 
-CPP binary and firmware generated from [PS5-Camera-Firmware-Loader](https://github.com/raleighlittles/PS5-Camera-Firmware-Loader). Built and tested on Fedora 38.
+CPP binary and firmware generated from [PS5-Camera-Firmware-Loader](https://github.com/raleighlittles/PS5-Camera-Firmware-Loader). Built and tested on Fedora 38/39.
 
 # Instructions
 
